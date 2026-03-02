@@ -1,0 +1,13 @@
+# Python
+backend/venv/
+__pycache__/
+*.pyc
+.env
+
+# Node
+smart-pantry-frontend/node_modules/
+smart-pantry-frontend/.next/
+
+# Mac
+.DS_Store
+
